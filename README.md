@@ -30,4 +30,29 @@ We are going to have to install some libraries, for this we define a list in a f
 **(venv) PS C:\Users\Edgar F\Desktop\EdgarProyecto02\HEART_ATTACK> pip install -r ./requirements_dev.txt**
 
 
+**Test Loggin**
+
+The following link contains the validation tests, which are necessary to execute our project (remembering that the code was simplified to execute the project in a simpler way).
+
+https://github.com/EdgarF9799/Heart_attack/blob/main/heart_attack/tests/test_heart_attack.py
+
+
+and the code to test would be the following, in the terminal
+
+pytest "C:\Users\Edgar F\Desktop\EdgarProject02\Heart_attack\heart_attack\tests\test_heart_attack.py" -v
+
+
+** Docker **
+
+Run the next command to start the Mobile Price API locally:
+
+**uvicorn api.main:app --reload**
+
+In the browser you must enter with the following path
+
+Access http://127.0.0.1:8000/
+
+https://github.com/EdgarF9799/Heart_attack/blob/main/Images/01_EvidenciaApi.png?raw=true
+
+
 
