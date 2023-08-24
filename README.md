@@ -164,5 +164,12 @@ and to delete it
 docker-compose -f heart_attack/heart_attack/docker-compose.yml rm
 ```
 
+# Resources
+
+My project uses the repositories from the following source:
+
+* You can find the dataset of this project in [Kaggle public repository](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset).
+
+
 
 
