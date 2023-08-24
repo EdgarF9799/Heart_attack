@@ -79,6 +79,13 @@ The application predicts based on the assigned variables if a person is prone to
 
 "Are you having a heart attack? Response: [1]"
 
+Logs are integrated and an image is shared.
+
+
+![Evidencia03](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/03_EvidenciaApi.png)
+
+
+
 
 
 
