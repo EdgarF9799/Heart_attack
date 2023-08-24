@@ -129,3 +129,9 @@ To start running the Docker image we use the following command
 docker run -d --rm --name heart_attack-image -c -p 8000:8000 mobilepc-image
 ```
 
+To access, we enter the following path:
+```bash
+http://127.0.0.1:8000/docs
+```
+
+
