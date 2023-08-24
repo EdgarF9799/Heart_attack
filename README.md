@@ -57,3 +57,23 @@ Access http://127.0.0.1:8000/
 ![Evidencia01](https://github.com/EdgarF9799/Heart_attack/blob/b89b024d34cf5d3cc0774604c7312d8de6c5539c/Images/01_EvidenciaApi.png)
 
 
+To run the application, the following format will be used (an example is given below):
+
+{"age": 57.0,
+  "sex": 1.0,
+  "cp": 2.0,
+  "trtbps": 150.0,
+  "chol": 168.0,
+  "fbs": 0.0,
+  "restect": 1.0,
+  "thalachh": 174.0,
+  "exng": 0.0,
+  "oldpeak": 1.6,
+  "slp": 2.0,
+  "cae": 0.0,
+  "thall": 2.0}
+
+![Evidencia02](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/02_EvidenciaApi.png)
+
+
+
