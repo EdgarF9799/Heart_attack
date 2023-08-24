@@ -54,7 +54,7 @@ In the browser you must enter with the following path
 Access http://127.0.0.1:8000/
 
 
-![Evidencia01](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/01_EvidenciaApi.png)
+![Evidencia01](01_EvidenciaApi.png)
 
 
 
