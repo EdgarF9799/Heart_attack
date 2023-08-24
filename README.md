@@ -20,16 +20,16 @@ https://github.com/EdgarF9799/ProyectoFinalEFNB/blob/main/01ConceptosClave/heart
 
 We go to the folder where we will have our project hosted and execute the following command in CMD to create a virtual environment to install Python version "3.10"
   ```bash
-**python310 -m venv venv**
+python310 -m venv venv
   ```
 and we activate 
   ```bash
-**source venv/bin/activate**
+source venv/bin/activate
   ```
 We are going to have to install some libraries, for this we define a list in a file called "Requirements"
 
   ```bash
-**(venv) PS C:\Users\Edgar F\Desktop\EdgarProyecto02\HEART_ATTACK> pip install -r ./requirements_dev.txt**
+(venv) PS C:\Users\Edgar F\Desktop\EdgarProyecto02\HEART_ATTACK> pip install -r ./requirements_dev.txt
   ```
 
 # Test Loggin
@@ -49,7 +49,7 @@ pytest "C:\Users\Edgar F\Desktop\EdgarProject02\Heart_attack\heart_attack\tests\
 
 Run the next command to start the Mobile Price API locally:
   ```bash
-**uvicorn api.main:app --reload**
+uvicorn api.main:app --reload
   ```
 
 In the browser you must enter with the following path
