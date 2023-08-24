@@ -1,3 +1,4 @@
+
 # Heart_attack
 The dataset "heart.csv" deals with the study of heart attacks, through a study carried out on 303 individuals and using various variables, such as age, gender, triglycerides, cholesterol and height, among others. This study carried out not only shows the complexity of cardiovascular health by uniting certain variables that allow recognizing heart attacks, but also offers a perspective of preventing heart disease and promoting a better quality of life. Among the most important variables, we found that age and gender are crucial factors influencing heart health. As we age, the structures and functions of the heart can change, increasing the risk of heart disease. On the other hand, there are studies that have shown that there are differences in the way men and women experience and develop cardiovascular diseases. Understanding these variations is essential to offer an effective and personalized approach to care.
 
@@ -30,7 +31,7 @@ We are going to have to install some libraries, for this we define a list in a f
 **(venv) PS C:\Users\Edgar F\Desktop\EdgarProyecto02\HEART_ATTACK> pip install -r ./requirements_dev.txt**
 
 
-**Test Loggin**
+# Test Loggin
 
 The following link contains the validation tests, which are necessary to execute our project (remembering that the code was simplified to execute the project in a simpler way).
 
@@ -42,7 +43,7 @@ and the code to test would be the following, in the terminal
 pytest "C:\Users\Edgar F\Desktop\EdgarProject02\Heart_attack\heart_attack\tests\test_heart_attack.py" -v
 
 
-** Docker **
+# Docker 
 
 Run the next command to start the Mobile Price API locally:
 
@@ -52,7 +53,8 @@ In the browser you must enter with the following path
 
 Access http://127.0.0.1:8000/
 
-https://github.com/EdgarF9799/Heart_attack/blob/main/Images/01_EvidenciaApi.png?raw=true
+
+https://github.com/EdgarF9799/Heart_attack/blob/main/Images/01_EvidenciaApi.png
 
 
 
