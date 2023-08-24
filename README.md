@@ -109,8 +109,19 @@ docker build -t heart_attack-image ./heart_attack/heart_attack/app/
 
 
 
+we will make an image with Docker
 
+  ```bash
+docker build -t mobilepc-image ./mobilepc/mobilepc/app/
+  ```
 
+Let's see if I really believe
+
+  ```bash
+docker images
+  ```
+
+![Evidencia06](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/06_EvidenciaApi.png)
 
 
 
