@@ -124,5 +124,8 @@ docker images
 ![Evidencia06](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/06_EvidenciaApi.png)
 
 
-
+To start running the Docker image we use the following command
+```bash
+docker run -d --rm --name heart_attack-image -c -p 8000:8000 mobilepc-image
+```
 
