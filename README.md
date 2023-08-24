@@ -19,17 +19,18 @@ https://github.com/EdgarF9799/ProyectoFinalEFNB/blob/main/01ConceptosClave/heart
 # Configuration to be able to execute the project (Windows)
 
 We go to the folder where we will have our project hosted and execute the following command in CMD to create a virtual environment to install Python version "3.10"
-
+  ```bash
 **python310 -m venv venv**
-
+  ```
 and we activate 
-
+  ```bash
 **source venv/bin/activate**
-
+  ```
 We are going to have to install some libraries, for this we define a list in a file called "Requirements"
 
+  ```bash
 **(venv) PS C:\Users\Edgar F\Desktop\EdgarProyecto02\HEART_ATTACK> pip install -r ./requirements_dev.txt**
-
+  ```
 
 # Test Loggin
 
@@ -40,19 +41,22 @@ https://github.com/EdgarF9799/Heart_attack/blob/main/heart_attack/tests/test_hea
 
 and the code to test would be the following, in the terminal
 
+  ```bash
 pytest "C:\Users\Edgar F\Desktop\EdgarProject02\Heart_attack\heart_attack\tests\test_heart_attack.py" -v
-
+  ```
 
 # Docker 
 
 Run the next command to start the Mobile Price API locally:
-
+  ```bash
 **uvicorn api.main:app --reload**
+  ```
 
 In the browser you must enter with the following path
 
+  ```bash
 Access http://127.0.0.1:8000/docs/
-
+  ```
 
 ![Evidencia01](https://github.com/EdgarF9799/Heart_attack/blob/b89b024d34cf5d3cc0774604c7312d8de6c5539c/Images/01_EvidenciaApi.png)
 
