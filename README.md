@@ -155,4 +155,14 @@ restect: 1.0,
 ```
 ![Evidencia08](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/08_EvidenciaApi.png)
 
+To stop Docker the following code is used:
+```bash
+docker-compose -f heart_attack/heart_attack/docker-compose.yml stop
+```
+and to delete it
+```bash
+docker-compose -f heart_attack/heart_attack/docker-compose.yml rm
+```
+
+
 
