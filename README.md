@@ -137,6 +137,22 @@ http://127.0.0.1:8000/docs
 
 ![Evidencia07](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/07_EvidenciaApi.png)
 
-
+put the following parameters
+```bash
+{"age": 57.0,
+"sex": 1.0,
+"cp": 2.0,
+"trtbps": 150.0,
+"chol": 168.0,
+"fbs": 0.0,
+restect: 1.0,
+"thalachh": 174.0,
+"exng": 0.0,
+"oldpeak": 1.6,
+"slp": 2.0,
+"falls": 0.0,
+"thall": 2.0}
+```
+![Evidencia08](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/08_EvidenciaApi.png)
 
 
