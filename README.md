@@ -80,6 +80,10 @@ To run the application, the following format will be used (an example is given b
 
 ![Evidencia02](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/02_EvidenciaApi.png)
 
+The API trains according to the model, to start just enter the patient's data and press the execute button
+
+![Evidencia04](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/04_EvidenciaApi.png)
+
 The application predicts based on the assigned variables if a person is prone to cardiac arrest (result "1") con el siguiente mensaje
 
   ```bash
