@@ -1,1 +1,33 @@
 # Heart_attack
+The dataset "heart.csv" deals with the study of heart attacks, through a study carried out on 303 individuals and using various variables, such as age, gender, triglycerides, cholesterol and height, among others. This study carried out not only shows the complexity of cardiovascular health by uniting certain variables that allow recognizing heart attacks, but also offers a perspective of preventing heart disease and promoting a better quality of life. Among the most important variables, we found that age and gender are crucial factors influencing heart health. As we age, the structures and functions of the heart can change, increasing the risk of heart disease. On the other hand, there are studies that have shown that there are differences in the way men and women experience and develop cardiovascular diseases. Understanding these variations is essential to offer an effective and personalized approach to care.
+
+The dataset makes it possible to correlate different variables, which, although they have already been identified in isolated or independent ways as prone variables for a person to suffer heart attacks, the complete set would help to understand or predict whether a person is prone to a heart attack, for example. Give some examples of relationship:
+
+Triglyceride and cholesterol levels are critical indicators of heart health, high levels of these lipids in the blood can increase the risk of plaque buildup in the arteries, which can lead to heart disease.
+
+In summary, the detailed study of the heart, integrating factors such as age, gender, triglycerides, cholesterol, height and others, plays an essential role in the prevention and treatment of heart disease. By considering these key variables, healthcare professionals can personalize care, make informed decisions, and promote a holistic approach to ensuring cardiovascular health throughout life.
+
+
+# Analysis and model of ML
+
+An analysis of the DataSet was carried out completely in another repository, I leave the link below:
+
+https://github.com/EdgarF9799/ProyectoFinalEFNB/blob/main/01ConceptosClave/heart_attack_EdgarFNavaBarron.ipynb
+
+
+# Configuration to be able to execute the project (Windows)
+
+We go to the folder where we will have our project hosted and execute the following command in CMD to create a virtual environment to install Python version "3.10"
+
+**python310 -m venv venv**
+
+and we activate 
+
+**source venv/bin/activate**
+
+We are going to have to install some libraries, for this we define a list in a file called "Requirements"
+
+**(venv) PS C:\Users\Edgar F\Desktop\EdgarProyecto02\HEART_ATTACK> pip install -r ./requirements_dev.txt**
+
+
+
