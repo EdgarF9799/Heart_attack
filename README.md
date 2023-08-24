@@ -135,3 +135,8 @@ http://127.0.0.1:8000/docs
 ```
 
 
+![Evidencia07](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/07_EvidenciaApi.png)
+
+
+
+
