@@ -96,9 +96,9 @@ Logs are integrated and an image is shared.
 ![Evidencia03](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/03_EvidenciaApi.png)
 
 
-# Despliegue de la API con Docker
+# API deployment with Docker
 
-Estando en el directorio raiz, usaremos el siguiente comando:
+Being in the root directory, we will use the following command:
 
   ```bash
 docker build -t heart_attack-image ./heart_attack/heart_attack/app/
