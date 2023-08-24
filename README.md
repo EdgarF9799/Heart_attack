@@ -82,7 +82,9 @@ To run the application, the following format will be used (an example is given b
 
 The application predicts based on the assigned variables if a person is prone to cardiac arrest (result "1") con el siguiente mensaje
 
+  ```bash
 "Are you having a heart attack? Response: [1]"
+  ```
 
 Logs are integrated and an image is shared.
 
