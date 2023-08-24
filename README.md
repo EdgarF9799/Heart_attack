@@ -62,7 +62,7 @@ Access http://127.0.0.1:8000/docs/
 
 
 To run the application, the following format will be used (an example is given below):
-
+  ```bash
 {"age": 57.0,
   "sex": 1.0,
   "cp": 2.0,
@@ -76,6 +76,7 @@ To run the application, the following format will be used (an example is given b
   "slp": 2.0,
   "cae": 0.0,
   "thall": 2.0}
+  ```
 
 ![Evidencia02](https://github.com/EdgarF9799/Heart_attack/blob/main/Images/02_EvidenciaApi.png)
 
